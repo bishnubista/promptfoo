@@ -6,13 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.120.25](https://github.com/promptfoo/promptfoo/compare/0.120.24...0.120.25) (2026-02-10)
 
-
 ### Bug Fixes
 
-* **deps:** update dependency @opencode-ai/sdk to ^1.1.52 ([#7601](https://github.com/promptfoo/promptfoo/issues/7601)) ([b6aa8e4](https://github.com/promptfoo/promptfoo/commit/b6aa8e4acbad19f0e806e5e4ecf44c278e5b78e2))
-* **deps:** update dependency dotenv to ^17.2.4 ([#7607](https://github.com/promptfoo/promptfoo/issues/7607)) ([a44d36d](https://github.com/promptfoo/promptfoo/commit/a44d36dbd73c89d3d3161b5a1387464f68ebcc74))
-* **deps:** update dependency ora to ^9.3.0 ([#7594](https://github.com/promptfoo/promptfoo/issues/7594)) ([9125e12](https://github.com/promptfoo/promptfoo/commit/9125e125c9f20942e542c02bf061b43ee8b63840))
-* **table:** display sessionIds array from multi-turn strategies ([#7608](https://github.com/promptfoo/promptfoo/issues/7608)) ([0442aee](https://github.com/promptfoo/promptfoo/commit/0442aee2b479f7a843f286d6bdf509759234a4b2))
+- **deps:** update dependency @opencode-ai/sdk to ^1.1.52 ([#7601](https://github.com/promptfoo/promptfoo/issues/7601)) ([b6aa8e4](https://github.com/promptfoo/promptfoo/commit/b6aa8e4acbad19f0e806e5e4ecf44c278e5b78e2))
+- **deps:** update dependency dotenv to ^17.2.4 ([#7607](https://github.com/promptfoo/promptfoo/issues/7607)) ([a44d36d](https://github.com/promptfoo/promptfoo/commit/a44d36dbd73c89d3d3161b5a1387464f68ebcc74))
+- **deps:** update dependency ora to ^9.3.0 ([#7594](https://github.com/promptfoo/promptfoo/issues/7594)) ([9125e12](https://github.com/promptfoo/promptfoo/commit/9125e125c9f20942e542c02bf061b43ee8b63840))
+- **table:** display sessionIds array from multi-turn strategies ([#7608](https://github.com/promptfoo/promptfoo/issues/7608)) ([0442aee](https://github.com/promptfoo/promptfoo/commit/0442aee2b479f7a843f286d6bdf509759234a4b2))
 
 ## [0.120.24](https://github.com/promptfoo/promptfoo/compare/0.120.23...0.120.24) (2026-02-10)
 
